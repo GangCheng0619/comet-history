@@ -1,0 +1,312 @@
+You10:29 AM
+this project is developed by laravel php?
+
+Sumit Arora10:30 AM
+Its made in .net
+i want to convert in Laravel
+or in JS 
+
+Sumit Arora10:31 AM
+Laravel + JS??
+Laravel Backend + Vue JS Frotned
+
+You10:31 AM
+I would like to recommend React JS to you
+
+Sumit Arora10:32 AM
+ok..
+Laravel + React?
+
+You10:32 AM
+For now react js is faster than vue js relevant blockchain project
+yeah
+
+Sumit Arora10:32 AM
+ok...
+thats fine..
+can you do estimation??
+
+You10:32 AM
+I could develop only using JS frameworks
+
+Sumit Arora10:32 AM
+i have a few projects like this..
+can you develop Headless CMS?
+Mean + Express + React + Nose
+Node
+
+You10:33 AM
+MERN
+
+Sumit Arora10:33 AM
+yes i do
+
+You10:33 AM
+mongodb experess react node
+
+Sumit Arora10:33 AM
+Mongo..
+yes
+
+You10:33 AM
+do you know?
+
+Sumit Arora10:33 AM
+yes i know
+do yo have somethign that you made in MERN?
+
+Sumit Arora10:35 AM
+Weekly pay ... how much do you exprext per week?
+how much??
+
+You10:35 AM
+I would like to be paid 800 dollars per week
+
+Sumit Arora10:35 AM
+too high
+max i pay is 2000 per month..
+i have teams working for me on that price.
+You10:36 AM
+so your budget a week?
+hey
+
+Sumit Arora10:36 AM
+500 per week
+
+You10:36 AM
+I will explain to you the reason soon
+Sumit Arora10:37 AM
+sure..
+How many weeks of work is in NFT?
+
+Sumit Arora10:38 AM
+Do iahve to pay for minting each time?
+each time i add a new arstist... do i need to pay for minting again?
+
+You10:38 AM
+In business?
+You don't have to pay the minting fee.
+users will pay for it.
+okay
+?
+
+Sumit Arora10:39 AM
+what is the GAS?
+can I push Art from my marketplace to List in OpenSeas?
+
+You10:40 AM
+of course
+
+Sumit Arora10:41 AM
+Do we give users a minting platfrom in our marketplace?
+Can you make a document to explain the full flow
+
+Sumit Arora10:43 AM
+I know someone who just launched  http://www.ocn.ai
+
+Sumit Arora10:45 AM
+need to plan my finances
+its a investment i will make from my own pocket
+i have 5 projects running at the moment..
+so i am just in a flux to decide... whch one to get the funding first..
+as when I begin a project i need to have funds to ensure that i keep it going..
+
+Sumit Arora10:47 AM
+Can you sahre some of your MERN work
+Where did u message?
+or you are saying uou will messsage me
+
+You10:48 AM
+Just a minute
+
+Sumit Arora10:48 AM
+later
+ok
+
+You10:48 AM
+https://cardahub.io/minting
+
+Sumit Arora10:50 AM
+checking the link
+
+You10:50 AM
+the basic url is https://cardahub.io.
+
+Sumit Arora10:56 AM
+show me on your screen how it works
+Share your screen
+show me on your screen please
+
+Sumit Arora10:57 AM
+where will be deployed?
+AWS / Azure ??
+and what is the resource requirements for such a project from a DevOps perspective
+can you make a full plan for me with costs.. wil help plan the project costs better
+right now i can see the devlopment costs only
+
+Sumit Arora10:59 AM
+maintnance costs ?
+hosting per month ?
+how many users can the above referred cost manage.. 
+100, 1000, 10000, 1Mn ??
+need to understand the cost of custoemr better
+
+Sumit Arora11:01 AM
+I also want to build a Health Chain for Animals 
+digitizing their health records.. thts the 2nd project
+
+You11:01 AM
+Please send me the details requirements at first
+the everything you want to know
+with doc file
+okay?
+I will write the full plan based on your request.
+okahy
+
+Sumit Arora11:03 AM
+Make in Excel 
+or Google Sheet
+which ever is convenient.
+so taht we can edit the numbers and do some calculations for costng..
+Eg:  Server Costs: 50$ for 100 Customers
+Google Docs is fine..
+
+Sumit Arora11:04 AM
+i am happy with it too
+Lets make a docment with Project Plan..
+we know what are deliverables by Week 
+so that we can track and see where we are heading
+and I can plan the finances from my side accordingly
+
+Sumit Arora11:05 AM
+This proiject does not include makinga Coin??? right?
+like a ArtCoin?
+on ETH?
+
+You11:06 AM
+okahy
+eht
+eth
+
+Sumit Arora11:06 AM
+ok
+I understand Polygon is not charging Gas
+its Free on Polygon
+
+Sumit Arora11:08 AM
+Did not get you
+can you type to explain
+
+You11:08 AM
+Yeah
+Okay
+You said to me polygon don't need gas fee.
+right?
+But it is not right
+Polygon needs too poor gas.
+
+You11:09 AM
+understand?
+it never not need gas fee.
+
+Sumit Arora11:10 AM
+Gas Fee is essential for all paltform?
+is that the way they earn?
+its like network Fee
+But I hear its very low or almost zero on Polygon
+as its new
+and wants to acquire customers
+new users
+
+Sumit Arora11:11 AM
+https://moralis.io
+Check 
+No i habve not used..
+but that is kind of a roadmap i see
+
+Sumit Arora11:12 AM
+build a product like Moralis..
+that enables people to develop their marketplaces from our platform
+A few Click setup that helps you lauch our DApp
+NFT Marketplace 
+
+Sumit Arora11:13 AM
+great
+its like shopify...... users can go and launch their own stores
+this helps spread the product and each site shows powered by ArtCoin
+more links helps grow more reach
+
+Sumit Arora11:14 AM
+each backlink helps in SEO
+I want you come as a partner not as a developer
+Its better we work together..
+you work on tech.. I work on Product Ideation and Reach
+As building a product is not a one time thing
+
+Sumit Arora11:16 AM
+It needs constant fuel.. for the Engine to work..
+
+You11:16 AM
+Yeah I see I see.
+So please write down all your requiremnts in google docs and send me as soon as possible.
+
+Sumit Arora11:16 AM
+Ok..
+share the google doc in Telegram
+and will add item in it..
+lets collaborate..
+lets break the components and make a delviery plan..
+and lets work together on it..
+I have 2 partnrs who can help grow the reach
+and diff industries
+I am sure...
+
+Sumit Arora11:17 AM
+i am sure you will do a good job..
+Absolutely...
+
+You11:17 AM
+we can cooperater each other.
+
+Sumit Arora11:17 AM
+Yes we can..
+
+You11:18 AM
+Thank you for your cooperation.
+
+Sumit Arora11:18 AM
+Arigatōgozaimasu
+Yes i can 
+wait
+
+Sumit Arora11:19 AM
+ありがとうございます
+
+Sumit Arora11:20 AM
+Send me your picture ... Let me add you as a team member on my website
+In a suit
+i will add in this site.
+www.k2s.co
+as my Blockchain Expert....
+So that i can get you more projects at better costs
+
+Sumit Arora11:22 AM
+what is your Gmail addresss
+
+You11:22 AM
+webcometsmart
+@gamil.com
+webcometsmart@gmail.com
+
+Sumit Arora11:23 AM
+added 
+check your mail
+I will add the explaination in it.
+and You add the plan
+and a project plan for development
+I will jhabe to go now..
+lets begin the work..
+My pleasure ..
+Sumit Arora11:24 AM
+1am rite now
+India

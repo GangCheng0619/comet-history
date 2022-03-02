@@ -1,0 +1,218 @@
+Work Experience
+
+Game Developer
+Cubix - Toronto
+2015-2018
+
+• UE4 Full Modding Support (subclasses of 'Blueprint')
+• Custom Saving / Loading Systems in UE4 and Unity
+• Steamworks integration for Desktop in UE4 and Unity
+• Multiplayer / Lobby systems in UE4 (via BP Replication)
+• Advanced AI Systems in UE4 and Unity
+• Complete Desktop Level Editor in UE4
+• Complete Mobile Level Editor in Unity
+• and Much More!
+
+Frontend Engineer
+PSD2HTML® -  Toronto
+2018 - 2019
+
+• Lead in implementing style guide on Angular powered frontend portal. Built a suite of reusable Angular directives and a set of Sass utility functions.
+• Lead and developed a React powered consumer web application within 2 months from scratch.
+
+Technology used:
+• Frontend: React Native, React, React Router, Redux, Redux Saga, webpack, AngularJS, CSS, SCSS
+• Backend: Java Play Framework, Lombok, Jackson, MySQL
+• Tools: Git, Jira, Bamboo, BitBucket
+
+Cryptocurrency Expert
+SoluLab - Toronto
+2020-2021
+
+• Researched blockchain technology, smart contracts, and cryptocurrency exchange systems.
+• Developed smart contracts on Ethereum and EOS.
+• Configured and deployed a cryptocurrencies exchange named Peatio, along with all its many dependencies.
+• Configured and deployed private Bitcoin, Ethereum, EOS, and XRP networks.
+• Containerized each service using Kubernetes.
+Technologies: Git, EOS, Ethereum, Bitcoin, Pusher, RabbitMQ, Redis, Ruby on Rails (RoR), Ruby
+
+Education Experience
+
+The University of Winnipeg
+
+Bachelor of Computer Science (BCompSc)
+
+Computer Science
+
+2009 - 2012
+
+I learned Computer Science in this university for 5 years.
+I was majoring in Computer Science and Information Technology during this period.
+I received Bachelor of Computer Science from this university when I graduated.
+
+799 Rue Dubé, Sainte-Patrick	PE M8G 3L5
+Toronto ON M3C 0J1 3157607493
+
+
+
+----------------------------------- Russian Federation ----------------------------------- Yevgeniy Osipov/ Savin Vinogradov
+
+Work Experience
+
+Game Developer
+fructus temporum - Moscow
+2015-2018
+
+• UE4 Full Modding Support (subclasses of 'Blueprint')
+• Custom Saving / Loading Systems in UE4 and Unity
+• Steamworks integration for Desktop in UE4 and Unity
+• Multiplayer / Lobby systems in UE4 (via BP Replication)
+• Advanced AI Systems in UE4 and Unity
+• Complete Desktop Level Editor in UE4
+• Complete Mobile Level Editor in Unity
+• and Much More!
+
+
+Frontend Engineer
+PURRWEB - Omsk
+2018 - 2019
+
+• Lead in implementing style guide on Angular powered frontend portal. Built a suite of reusable Angular directives and a set of Sass utility functions.
+• Lead and developed a React powered consumer web application within 2 months from scratch.
+
+Technology used:
+• Frontend: React Native, React, React Router, Redux, Redux Saga, webpack, AngularJS, CSS, SCSS
+• Backend: Java Play Framework, Lombok, Jackson, MySQL
+• Tools: Git, Jira, Bamboo, BitBucket
+
+Cryptocurrency Expert
+Edone - Moscow
+2020 - 2021
+
+• Researched blockchain technology, smart contracts, and cryptocurrency exchange systems.
+• Developed smart contracts on Ethereum and EOS.
+• Configured and deployed a cryptocurrencies exchange named Peatio, along with all its many dependencies.
+• Configured and deployed private Bitcoin, Ethereum, EOS, and XRP networks.
+• Used Slanger as a free self-hosted replacement for Pusher.
+• Containerized each service using Kubernetes.
+Technologies: Git, EOS, Ethereum, Bitcoin, Pusher, RabbitMQ, Redis, Ruby on Rails (RoR), Ruby
+
+Education Experience
+
+St. Petersburg State University
+
+Bachelor of Computer Science (BCompSc)
+
+Computer Science
+
+2009 - 2012
+
+I learned Computer Science in this university for 5 years.
+I was majoring in Computer Science and Information Technology during this period.
+I received Bachelor of Computer Science from this university when I graduated.
+
+Kropotkinskiy Pereulok  22
+Moscow  153686 797 138 51 30
+
+Japan
+
+211-1007, Hamamatsucho Sekaiboekisentabiru(37-kai), Minato-ku, Tokyo
+
+Street:  273-1164, Higashishimbashi Shiodomeshiteisenta(21-kai)
+
+City:  Minato-ku
+
+State/province/area:   Tokyo
+
+Phone number  +8189-931-5198
+
+Country calling code  +81
+
+Country  Japan
+
+----------------------------------- Ukraine ----------------------------------- Oleh Radchenko
+
+Work Experience
+Game Developer
+MobiDev - Kharkiv
+2015-2017
+
+• UE4 Full Modding Support (subclasses of 'Blueprint')
+• Custom Saving / Loading Systems in UE4 and Unity
+• Steamworks integration for Desktop in UE4 and Unity
+• Multiplayer / Lobby systems in UE4 (via BP Replication)
+• Advanced AI Systems in UE4 and Unity
+• Complete Desktop Level Editor in UE4
+• Complete Mobile Level Editor in Unity
+• and Much More!
+
+JSN - Zaporizhia
+2017 - 2018
+
+• Lead in implementing style guide on Angular powered frontend portal. Built a suite of reusable Angular directives and a set of Sass utility functions.
+• Lead and developed a React powered consumer web application within 2 months from scratch.
+
+Technology used:
+• Frontend: React Native, React, React Router, Redux, Redux Saga, webpack, AngularJS, CSS, SCSS
+• Backend: Java Play Framework, Lombok, Jackson, MySQL
+• Tools: Git, Jira, Bamboo, BitBucket
+
+2020 - 2021
+Peiko - Kiev
+• Researched blockchain technology, smart contracts, and cryptocurrency exchange systems.
+• Developed smart contracts on Ethereum and EOS.
+• Configured and deployed a cryptocurrencies exchange named Peatio, along with all its many dependencies.
+• Configured and deployed private Bitcoin, Ethereum, EOS, and XRP networks.
+• Used Slanger as a free self-hosted replacement for Pusher.
+• Containerized each service using Kubernetes.
+Technologies: Git, EOS, Ethereum, Bitcoin, Pusher, RabbitMQ, Redis, Ruby on Rails (RoR), Ruby
+
+Education Experience
+
+National University of Kyiv-Mohyla Academy
+Bachelor of Computer Science (BCompSc)
+Computer Science
+2009 - 2013
+
+I learned Computer Science in this university for 5 years.
+I was majoring in Computer Science and Information Technology during this period.
+I received Bachelor of Computer Science from this university when I graduated.
+
+Street:  Bereznyakovskaya Ul., bld. 20, appt. 76
+City:  Kyiv 98545
+State/province/area:    Kievskaya oblast
+Phone number  +380(044)553-34-74
+
+
+Portfolio
+
+OPEN PET WORLD
+This is Crypto Game site for P2E.
+Features are as follow: Collection, Keeping Pet, Building Village, Sweet Home.
+It includes Defi, NFT Marketplace, Tokenomics, NFT collection.
+In this site, users can earn money while playing.
+
+Cardahub
+This is NFT marketplace for Cardano Network.
+It includes NFT marketplace, collection, minting page.
+
+Normally, eCommerce website needs SEO(Search Engine Optimization) and then Next.js supports SEO easily.
+But Next.js don't interacts with external vanilla css, so the speed of landing page is low.
+So I solved the speed problem using spinner and replacing images and interacting problem using global css inside next,js.
+
+--- Smart Contracts ---
+
+Token: BMT
+Contract: 0x496f090C20D3353Ff1B0FB93e1A583c14254bb5B
+https://bscscan.com/address/0x496f090C20D3353Ff1B0FB93e1A583c14254bb5B
+https://tokenminer.online/BMT/
+
+Token: Busdmachine
+Contract: 0xed5b1cd84d953ff6f9f23a87d5872343cfdfbbe3
+https://bscscan.com/address/0xed5b1cd84d953ff6f9f23a87d5872343cfdfbbe3
+https://tokenminer.online/BUSDMachine/
+
+Token: Duck
+Contract: 0x4eACB72F6BA99e1C69ac053dcb281387fF374d22
+https://bscscan.com/address/0x4eACB72F6BA99e1C69ac053dcb281387fF374d22
+https://ducknetwork.io/ducknetwork/

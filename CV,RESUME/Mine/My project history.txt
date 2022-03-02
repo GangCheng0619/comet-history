@@ -1,0 +1,14 @@
+Spinmor.com
+
+This is coffee shop site and I developed the admin panel of this site.
+I used React.js, Redux based on Typescript to develop frontend on Node.js environment, providing well-structured frontend and Node.js and ExpressJS for backend developing.
+I used MongoDB as database.
+The size of this site is as large as 3 months, but I finished it for a month.
+My client was Israeli and he express his satisfaction to my working result.
+
+EnkeltStyrt
+
+This is apartment renting management site.
+I used React.js, Redux, Styled Component to develop frontend on Node.js environment, reflecting my creative idea and styling sense to frontend, and Javascript backend framework, Express.js for backend developing.
+I used MongoDB, Non-Relational DB as database.
+My client expresses his satisfaction to my working result and evaluate me to creative developer.

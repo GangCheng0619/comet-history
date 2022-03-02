@@ -1,0 +1,88 @@
+nano			edit file
+rm -rf			remove file and directory
+rm -r			remove directory only
+rm -f			remove file only
+apt install		install service
+sudo			admin role
+sudo su root	change the admin role
+ls				dir
+clear			cls
+service	<service name> status		check service status
+service <service name> start		start service status
+service <service name> stop			stop service status
+free			check other core info
+lshw -c memory	check ram size
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash		how to install nvm in ubuntu
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -                     how to install node.js and npm
+source ~/.bashrc                        how to install versioned node
+iostat			check system info
+npm install pm2 -g
+
+sudo chmod 777 -R ./
+sudo ufw allow from 64.63.62.61
+sudo ln -sf ../sites-available/myproject ../sites-enabled/
+ln -s /etc/apache2/sites-available/foo.conf mysimlink-whatever.conf
+
+mongoimport --db=<DB_Name> --collection=<Collection_Name> --file=<File_Path>+<File_Name>
+mongoimport --db=sundragon --collection=users --file=.\Downloads\enkelt\enkeltstyrt\users.json          windows
+mongoimport --db=enkeltstyrt --collection=users --file=/home/enkeltstyrt/users.json
+
+ln -s /etc/apache2/sites-available/default default
+
+
+location /api {
+        rewrite ^/app/(.*)$ break;
+        proxy_pass http://127.0.0.1:5000/;
+    }
+
+ln -s /etc/apache2/sites-available/site.conf site.conf
+
+------------ permission to connect mongodb remotely
+mongo           mongo shell admin role
+
+use admin;
+
+db.createUser({
+user: "enkeltstyrt",
+pwd: "enkeltstyrt",
+roles: [
+        { role: "userAdmin", db: "enkeltstyrt" },
+        { role: "dbAdmin",   db: "enkeltstyrt" },
+        { role: "readWrite", db: "enkeltstyrt" }
+     ]
+});
+
+MONGO_URI=mongodb://admin:admin@127.0.0.1:27017/enkeltstyrt
+MONGO_URI=mongodb://enkeltstyrt:enkeltstyrt@20.91.130.17:27017/enkeltstyrt?serverSelectionTimeoutMS=5000&connectTimeoutMS=10000&authSource=admin&authMechanism=SCRAM-SHA-1
+
+---------------- nginx-websocket-proxy.conf
+
+upstream websocket {
+    server localhost:5000;
+}
+
+server {
+    listen       80;
+    server_name  localhost;
+
+    access_log  /var/log/nginx/websocket.access.log  main;
+
+    location /socket.io/ {
+        proxy_pass http://websocket;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+    }
+
+    location /socket.io/socket.io.js {
+        proxy_pass http://websocket;
+    }
+
+    location /sample.html {
+        root   /usr/share/nginx/html/;
+    }
+}
+
+
+
+

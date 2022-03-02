@@ -1,0 +1,28 @@
+React Native
+
+⭐⭐⭐⭐⭐ Thank you for visiting my proposal.
+As an enthusiastic Full-Stack Developer who loves to create effective & smart websites and work with businesses to help them grow, I am a responsible and purposeful.
+Also Highly capable full-stack Javascript developer with more than 8 years of hands-on experience designing and developing medium to enterprise-level web applications. I have expertise experiences with Node.js, MySql, NoSQL(MongoDB) through developing for several years. I also have rich knowledge of version controlling system such as Bitbucket, Github etc and working on google Firebase. I have worked on Heroku and AWS cloud platforms in several times amd have good understadning about it. I have already submissed 2 react native apps to AppStore. And I have have experience integrating various API to my applications. My English level is B2 and I provide quick and good communication.
+I am avaiable to have a communication relevant to project progress via Skype on daily and technical interview is possible.
+I can work fulltime in that time zone what you want and I can begin immediately.
+
+✨ My skills:
+I can help you with the following skills to achieve your goal.
+My Skills:
+✪ Front End programming: 
+- React Native, React.js/Redux/React Hooks, Next.js, Styled Components
+- Angular, NgRX, RxJS, Flutter
+✪ Back End programming: 
+- Node.js, PHP, Laravel, ExpressJS, Python/Django, ASP.NET
+✪ Expo, CLI
+✪ ExpressJS, Nest.js
+✪ Sequelize, Webpack, Babel
+✪ HTML, Tailwind CSS, CSS, SCSS, Bootstrap 3/4/5
+✪ Material UI, Storybook, Ant Design
+✪ GraphQL, MongoDB, PostgreSQL, MYSQL,
+✪ Amazon Web Service, Heroku
+✪ Figma, Zeplin, PSD, Sketch
+
+Feel free to contact me for further discussion.
+
+Thank you.

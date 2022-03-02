@@ -1,0 +1,25 @@
+⭐⭐⭐⭐⭐ How are you?
+Enthusiastic Software Engineer and Database Administrator who loves to create effective websites and work with businesses to help them grow.
+For the previous 8 years I was majoring full-stack development such as MERN stack etc, so I mastered with Node.js and ExpressJS through these developing period. in enterprise and high-performance responsive web technologies for both frontend and backend.
+As an experienced software engineer, I have my own special experiences and skills of development flow to design and implement main application and database structure. 
+Also, I mastered in the agile approach in project development and really love to add my own creativity to the overall project implementation. And I can interact and collaborate with other teammates such as infrastructure engineer, product manager and other developers easily and I am familiar with working in a team through a long development period.
+Previous period, I always step into the end-user's shoes and thought & perfromed all my bussienss.
+My English level is C1 and my cooperators and neighbors said my English is always fluent and proficiency.
+In several times I completed perfect and smooth SPA(Single Page Application) by using Node, React Library, Express Framework, MongoDB, and I have my some best practices relevant SPA now. I am familiar with working on Github and Bitbucket.
+I have an expertise experience with applying complicated, enterprise-level product system and I am always familiar and comfortable for working in a fully remote team.
+I received BS from Osaka University in 2010 and MS from University of Tokyo in 2016. 
+
+✨ My skills:
+I can help you with the following skills to achieve your goal.
+My Skills:
+✪ MERN Stack(MongoDB, Express, React, Node.js)
+✪ Back End Programming: Node.js, ExpressJS, NestJS, Django, ASP.NET core framework
+✪ Front End programming: React.js, Next.js Angular
+✪ HTML5, CSS3, Bootstrap, Styled Component, Tailwind CSS.
+✪ CMS: WordPress, Shopify, Magento, Drupal, Wix.
+✪ MongoDB, MySQL, PostgreSQL, MS SQL, SQLite.
+✪ GraphQL
+
+Please free to contact with me.
+
+Thank you.
