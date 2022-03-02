@@ -1,0 +1,10 @@
+I am a Front-End developer with years of experience in enterprise and high-performance responsive web technologies for both frontend and backend. I am skilled at making single page applications and progressive web apps with the extended ecosystems that allow your software to operate on multiple devices. I utilize ReactJS, VueJS, AngularJS, HTML5, JavaScript, and other flexible and powerful techniques to create reliable, fast and engaging web apps. I am also skilled at making cost effective cross-platform mobile app development using React Native. 
+I possess following skills 
+- React, React Native, Redux, Redux Saga, Redux Thunk, Gatsby 
+- Vue.js, Vuex, Next.js 
+- AngularJS, Angular 2/6/7, Ionic, Angular Material 
+- NodeJS, Socket.IO, Express.JS, Laravel - Highcharts, Chart.js, D3.js, MapBox 
+- Deployment: Docker, Ansible, AWS EC2 
+- Test tools: Jest, Jasmine, Mocha 
+- Task Management: Jira, Asana, Trello 
+- Version Control: Git, Github, Gitlab, Bitbucket

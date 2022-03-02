@@ -1,0 +1,34 @@
+Next.js
+
+⭐⭐⭐⭐⭐ Thank you for visiting my proposal.
+I wish you are health from COVID-19 virus diseases.
+☀ The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
+Enthusiastic Front-End Developer who loves to create effective websites and work with businesses to help them grow.
+I am a responsible and purposeful person, I can easily undertake the development and fit for this job, because I have expertise frontend experience with React.js and Next.js based on Typescript for several years. I can design any complex, responsive and diffucult-level Landing Page providing SEO, performance & user engagement with Next.js.
+And I enjoy working with styled component method based on my creative idea in frontend development and I have ever used UI templates such as Material UI & Ant Design in many times. I give importance to pixel-perfect, responsive, smart in frontend designing and can apply any animations & transitions to my landing pages with HTML and CSS.
+I am familiar to Github operations through many development experience. I usually applied CI/CD to my almost projects according to my clients' demand, so I provided their convenience.
+My English level is B2 and I can express my opinions and ideas to clients flexibly, so I provide the wonderful complete of my project. Finally I can work fulltime in your time zone flexibly.
+
+These are my skills:
+✪ Front End programming: 
+- React.js/Redux/React Hooks, Next.js, Styled Components
+- Angular, NgRX, RxJS
+✪ Back End programming: 
+- Node.js, PHP, Laravel, ExpressJS, Python/Django, ASP.NET
+✪ Online Stores: Shopify, WooCommerce, Opencart, Magento.
+✪ ExpressJS, Nest.js
+✪ Sequelize, Webpack, Babel
+✪ HTML, HTML5, CSS, SCSS, Bootstrap 3/4/5
+✪ Material UI, Storybook, Ant Design
+✪ CMS: WordPress, Shopify, Magento, Django, Drupal.
+✪ MySQL, MongoDB, PostgreSQL, Database Programming.
+✪ Figma, Zeplin, PSD, Sketch
+
+✨ Personal Qualities:
+⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.
+⚡ Fast response and good communication skills.
+⚡ well-organized/commented code.
+⚡ SEO friendly, semantic markup, and load speed optimization.
+⚡Testing and cross-browser / cross-device compatibility.
+
+Best Regards.

@@ -1,0 +1,216 @@
+~~~~~~~~~~ used by kang ~~~~~~~~~~~~~~~
+I am a self taught Frontend Developer, passionate about learning new technologies. I have a working proficiency in JavaScript, React, Redux, HTML, CSS, Node, Express, PGSQL, MongoDB and Sass. I have a solid understanding of Git version control.
+
+My goal is to continually grow as a Frontend developer while staying current with the latest trends and technologies. I am looking to further expand my skill set by gaining more in depth back-end knowledge.
+
+I would love to work for a team that is truly passionate about what they create, and that is striving to consistently move forward, and where I could develop my technical skills.
+
+
+
+~~~~~~~~
+
+Full stack software developer, with experience working as a front end developer and web UI developer , I am a person who is passionate about technology and loves to learn new things every day, I am characterized for being responsible, proactive and creative. Who can contribute great things to a work team, I adapt easily to new challenges and seek solutions to problems that arise sporadically. I firmly believe that currently if we can imagine, we can program it.
+
+
+~~~~~~~~~~~~~~
+
+Demonstrates effective communication skills. Plans, schedules, and monitors own work competently within limited deadlines. Contributes fully to the work of teams. Demonstrates an analytical and systematic approach to issue resolution. Passionate about web development and a life-long learner.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I have 5+ years of front-end web/UI development experience and am looking for a long-term opportunity in a startup or corporate environment.
+
+My professional experience includes the following:
+
+• 5 years: XHTML, XML, HTML5, CSS3, Mac and Linux Platforms, Interactive Design
+• 3 years: Javascript, JQuery, AJAX, JSON, Relational Database Experience (MySQL, SQL Server, PostGreSQL), Back End Web Development (Ruby on Rails, .NET), Flash, ActionScript 3.0, Animation
+• 3 years: Twitter Bootstrap, Responsive Web Design and Development - Desktop, Tablet, and Mobile), JavaScript Libraries & Frameworks (jQuery, Node.js, Angular.js, AJAX, JSON, etc.), Video and Audio Editing, Creative Design, User Experience Design, UX Design, UI Design
+• 3 years: SASS, LESS, Mobile Web Design and Development, Automation Tools (grunt), PHP CMS Frameworks.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hello✌️ Nice to meet you on my profile page😉
+
+I'm a markup developer with 5+ years of commercial experience in the field. I've worked for several international companies with eCommerce projects. I am skilled in responsive, semantic, W3С standard, cross-browser, SEO-friendly and mobile markup with different kinds of animation effects. I have an experience in converting designs to static HTML pages, solving a lot of issues and implementing a lot of improvements for big and scale projects. Also I have strong fundamental knowledge and experience with native JavaScript, jQuery, in particular, experience of working with CMS WordPress, configuring It and making fixes to themes and plugins.
+
+I always focus on high code quality providing modern and best solutions based on best practices, customer's goals and expectations.
+
+The stack I'm working with:
+
+✔️ HTML, HTML5, Pug
+✔️ CSS, CSS3, SASS, SCSS
+✔️ CSS3 transitions and animations
+✔️ SVG, SVG sprites
+✔️ BEM methodology
+✔️ Responsive markup
+✔️ Markup for Retina
+✔️ Pixel perfect markup
+✔️ Cross-browser compatibility
+✔️ Mobile-first approach
+✔️ The basic principles of SEO
+✔️ Photoshop, Sketch, Figma, Avocode, Zeplin, InVision
+✔️ JavaScript, jQuery, jQuery UI
+✔️ Bootstrap 3, 4
+✔️ CMS WordPress
+✔️ Version control system (Git) and repositories (GitHub, GitLab, Bitbucket)
+✔️ Package manager (npm, Yarn)
+✔️ Task runner (Gulp)
+✔️ Task management and issue tracking (Jira, Trello, Redmine)
+✔️ E-commerce
+✔️ Membership systems
+✔️ Elementor
+✔️ Multilanguage (WPML)
+✔️ Forums (BBpres)
+✔️ Google Maps API
+✔️ REST API
+✔️ Pagespeed optimiztion
+✔️ Visual composer
+✔️ Payment gateaways integration
+
+
+I am focused on:
+✔️ PSD to React || Angular
+✔️ Sketch to React || Angular
+✔️ Figma to React || Angular
+✔️ Adobe XD to React || Angular
+✔️ Zeplin to React || Angular
+✔️ HTML5 Banners Coding
+
+Working with me you will be confident in the successful project complete.
+I am also open for cooperation with developers and designers.
+
+Just try to work with me and you'll see: I can do my work well and on time. Please, feel free to ping me to discuss any cases, details and ask any questions you have. ✋💪.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A Software Engineer with the desire for efficiency, organization, as well as finding the harmonic balance between front and back end development. With the constant need to improve I enjoy both working alone to hone my skills as well as in groups in order to try and learn more or teach others so that the optimal output is achieved.
+
+You can expect a hard working, dedicated, and critical thinker that will do his best to meet any expectations set upon him. I am a shy but friendly individual that excels in teamwork and communication with experience leading small groups towards a similar goal.
+
+Proficiencies: HTML, CSS, Javascript, React, Ruby on Rails, Node.js, MongoDB, Bootstrap, Git, Sequel (SQL), NPM, EJS, Heroku, AJAX 	
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+UI/Web Developer with over 5 years of professional experiences in User Interface
+Development using Web Technologies. Experienced in JavaScript frameworks like React, Next, Angular JS, Angular2/4. Strong developing experience with HTML5, CSS3, SASS, JavaScript, Bootstrap, SQL,
+Media Queries, Gulp, Grunt, Web pack. Involved in building application from scratch using latest JavaScript frameworks. Building applications that are Responsive, performance and Accessible. Implemented UI mix ins to reduce the complexity and re-use of CSS classes
+Experienced with creating PSD mock-ups and converting them into pure hand-written HTML and CSS pages. Handled all the client side validations, slide show, handling dynamic control components using latest frameworks. Strong experience with Cross Browser Compatibility issues and Optimization for web, including CSS Sprites and best practices. Coordinating smooth implementation of test plans with the development team. Opening and verifying work requests/Bug Report and recreates Customer Issues. Experience in Development and Documentation throughout the entire SDLC. Experience in an Agile Environment using Scrum methodologies. Collaborating with other disciplines across engineering, UX, and Product to help develop front
+end solutions to merchant problems
+Writing large-scale CSS and JavaScript and documenting components in our UX Style Guides
+Up to date Knowledge with the latest industry trends in UI design and usability. Strong communication, problem-solving, and planning skills, with ability to work independently
+or in a team environment. Participated in day-to-day meeting, status meeting, strong reporting and effective communication
+with project manager and developers. Actively contributed in UI design phase, worked on creating POC. Coding various Data Access Objects and Service Classes in the framework. Good debugging and problem solving skills.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I am an experienced front-end web developer. My strongest suit is React, Angular, Node, ES6, and Javascript. I also enjoy learning HTML5 and CSS3 because who doesn't like to get creative right? I have taken on projects as being a front-end web developer on the team and I love to learn from others and share knowledge as well.
+
+
+Technical Skills
+
+Languages: Java, JavaScript
+Web Technologies: React, ES6, Material UI, Babel, TypeScript, JSON, HTML, CSS3, Bootstrap, REST APIs, jQuery
+Database: MySQL, MongoDB, Graph DB, Firebase
+Frameworks: Express, NodeJS, Webpack, Gradle
+Testing: JUnit, TestNG, Selenium, JMeter, Jest, A/B Testing, Cross-browser testing
+Tools: Git, Jira, Jenkins, CircleCI, Google Cloud Platform, Amazon AWS, Marketo, WordPress
+Design Tools: Adobe Creative Cloud XD, Photoshop, Illustrator, InDesign, Sketch, InVision, OmniGraffle
+SDLC: Waterfall, Scrum, Kanban, Agile.
+
+
+I am actively looking for challenging full-time opportunities in Software Engineering(Front End Developer, Web Development, and Quality Assurance).
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+• Full-Stack / Front-End Developer passionate about problem solving and user experience.
+• Experience in the latest web technologies and designing responsive websites.
+• Fast learner focused on expanding knowledge and abilities in website design and programming. Strong JavaScript and ability to work within diverse frameworks.
+• Team player with an analytical approach to developing useful solutions.
+• Seeking a position of responsibility with a vibrant and supportive team.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🚀 4 years of professional working experience in the Java platform & Distributed System.
+🚀 Extensive experience in developing Microservices using technologies like Spring, Spring Boot, JPA/Hibernate, Event Streaming & Messaging with Apache Kafka and ActiveMQ.
+🚀 Experienced in migrating traditional application to containerised application with Docker and manage app deployment with Helm in Kubernetes/OpenShift Clusters.
+🚀 Hands-on experience in client-side app development with ReactJs and Angular.
+🚀 Hands-on experience with Event-driven Reactive programming (Quarkus/ReactiveX)
+
+Below are the teach skills I have been using in my previous projects so far:
+
+- Programming Languages: Java, JavaScript, Typescript, Ruby
+- Frameworks: Spring-Boot, Angular, ReactJS, NodeJS, Ruby on Rails
+- Databases: MySQL, MongoDB, Postgres, CouchDB, Redis
+- DevOps & CI/CD: AWS, Docker, Jenkins, Kubernetes, Open-Shift, Maven, Git
+- Testing Tools: Mockito, Rspec, jUnit, Jasmine, Mocha, Chai
+- OS: Windows, Ubuntu, Arch Linux (Unix and Linux based preferred)
+- IDE: IntelliJ, VSCode
+- Others: Socket, Pusher ,Kafka, ActiveMQ
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Full Stack Software Developer with 3 years of programming experience. Coding JavaScript, problem-solving, and learning are my greatest strengths. My technical skill set includes: Git, Heroku, HTML5, CSS3, Scss, Bootstrap, Tailwind CSS, Material UI, JavaScript, jQuery, Node.js, Gulp, Express JS, MySQL, Sequelize, MongoDB, Mongoose, Handlebars.js, AWS Authentication, Passport, and React. I implement these skills with balance, design, and functionality as my focus. Starting as a self-taught programmer has fostered a drive and ability for me to learn fast and pick up new technologies quickly. I continued my education with the University of Oregon Full Stack Coding Bootcamp in order to both solidify and expand my stack. I'm excited to bring my enthusiasm and positive attitude into a fast-paced team of engineers that focuses on creating solutions built from innovative perspectives.
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+• I am currently working as Front End developer for Meaningful world.
+• I have a strong passion for software development and web application development.
+• I am actively looking for a Full-time opportunity as a software developer/web developer/full-stack position.
+• I hope to join a forward-thinking developing company in a position where I can utilize all of my skills.
+
+TECHNICAL SKILLS
+Programming Languages: Java, C++, JavaScript, PHP, Shell Script, Struts, Hibernate, Spring
+Databases: SQL, MYSQL, SQLite, Mongo DB, Firebase
+Web Technology: HTML5, CSS3, Bootstrap, JQuery, AngularJS, React, Ionic, WordPress, AJAX, Node.js
+Software: QtCreator, Eclipse, QTest, Adobe Photoshop CC
+Tools/Cloud: Git, Jenkins, JIRA, Docker, AWS
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Highly capable full stack javascript developer with more than 4 years of hands-on experience designing and developing medium to enterprise-level web applications. Experience working in different business domains including healthcare, commercial and governmental companies.
+Skillful in designing robust enterprise applications using a deep knowledge of design patterns as a tool. Building efficient front end and RESTFUL endpoints using technologies like React, Angular, React-Native, Node-express and MongoDB backed up with a good foundation of a relational database.
+Enjoy working closely with people from different departments, and people from different parts of the world throughout my career, and this has helped me to build strong communication and conflict management skills..
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+• I have ~3 years of experience, encapsulating product support in the start of my career and then as a Software Developer building an iOS App which aimed to help students prepare better for the most competitive exam of India 'UPSC'.
+• Fortunately, being on both sides of the spectrum, Product support being the first role made me understand the user and software requirements in general with much clarity, and using the learnings from it helped me better my thinking towards building the product as a Software Developer later.
+• I have done my undergrad in Bachelor of Technology majoring in Information Technology. I have a keen interest in new technology, iOS Development, Data structures & algorithms.
+• Right now, I am pursuing a Master of Science in Computer Software Engineering to pursue my interests in more depth.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Worked on the company's Flagship product and developing a Family of iOS14 Widgets using SwiftUI
+- Designed and developed a Slack Workspace Application to make server outage notifications on Slack Channels using the events processed by AWS Lambda; increased visibility of operations team for the actionable production events.
+- Implemented a Serverless Application using AWS Lambda, AWS API Gateway and Jira Webhooks to catch events(Issue created, updated) triggered in a critical Jira Project for server outages.
+- Automated manual regression testing for Payment Web Service using NUnit Testing Framework; reducing time for Testing to almost 20%.
+- Developed feature for DevOps team to autoscale ECS service using terraform; reduced cost of service by 10%.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Created storage framework using AWS Service - S3 which helped app users download paid and free content seamlessly.
+- Accomplished API framework that helped protect data while making API calls using AES and RSA Encryption; eliminated 10% of existing codebase from every module and ~ 20% of code reduction overall.
+- Devised video streaming feature that helped users watch live/old videos; optimized video quality by network speed thereby increasing number of daily active users by 20%.
+- Delivered Live Test Series Feature for users to enroll and give series of tests followed by detailed analysis.
+- Mentored 2 interns and 1 Full-Time Employee; helped with company's culture, company specific tools, and processes.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+I’m a super ambitious professional with a vast array of knowledge in different programming languages, responsive frameworks; databases, and best code practices. Courteous and enthusiastic with an interest in everything in the orbit and fascinated by web programming such as developing apps. My focus is on clean, elegant, and efficient codes and I am able to work on new and existing micro-sites, landing pages, templates, and provide guidance and troubleshooting support to clients.
+
+I have established a profound knowledge in MongoDB, Express.js, React.js, Node.js, JavaScript, jQuery, MySQL, HTML5, CSS3. I am passionate about front-end development as technology innovation, and I have the drive and energy needed to consistently exceed expectations.
+
+I look forward to being a part of a growing company as a front-end developer where I can utilize exceptional programming and interpersonal skills acquired to contribute to your company's success.

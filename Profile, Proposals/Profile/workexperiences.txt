@@ -1,0 +1,418 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Frontend Engineer at Shopee
+---
+Sea is an internet platform company, focused on in Greater Southeast Asia, a region that includes Indonesia, Taiwan, Vietnam, Thailand, the Philippines, Malaysia and Singapore.
+Shopee is an e-commerce platform company under Sea Group.
+---
+My key responsibilities are:
+- Develop performant and optimized web applications
+- Build and upgrade internal tools and libraries to improve developer experience
+- Advocate new technologies and best practices within the team
+My key contributions are:
+- Built a rich set of development tools to improve developer experience (DX), such as chrome extension, cli tools, custom CI pipeline
+- Set up performance metrics monitoring platform
+- Upgraded React 16 and migrated legacy code
+- Optimized webpack bundle size to reduce load time
+Technology used:
+- React, Redux, Flow Type, webpack, Jest, puppeteer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ used by kang
+Ninja Van is Southeast Asia’s fastest growing last-mile logistics company.
+
+- Lead in implementing style guide on Angular powered frontend portal. Built a suite of reusable Angular directives and a set of Sass utility functions.
+- Lead and developed a React powered consumer web application within 2 months from scratch.
+
+Technology used:
+- Frontend: React Native, React, React Router, Redux, Redux Saga, webpack, AngularJS, CSS, SCSS
+- Backend: Java Play Framework, Lombok, Jackson, MySQL
+- Tools: Git, Jira, Bamboo, BitBucket
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Worked in a development team across 2 nations, Singapore and Indonesia.
+- Developed Healthy Living@SG mobile app for both Android and iOS platform in collaboration with Health Promotion Board Singapore.
+- Libraries and frameworks involved: Appcelerator Titanium SDK, CommonJS, underscore.js, moment.js, async.js, TiLogCatcher.
+- Tools used: Titanium Studio, Git, SimPholders, Liya, adb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+• Implemented back-end technologies like RDBMS, MySQL and JDBC.
+• Designed CSS based page layouts that are cross-browser compatible and standards-compliant.
+• Responsible for implementing and development of the web pages from mock- ups.
+• Involved in Core Java coding by using Java APIs such as Collections, Exception Handling, Generics,
+Enumeration, and Java I/O to fulfill the implementation of business logic.
+• Participated in development of a well responsive single page application using React framework.
+• Deep understanding and hands on experience in various stages of SDLC including direct client
+communication, requirement gathering and involvement in enterprise design.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+• Working knowledge of front-end optimization and performance techniques
+• Build, design and create robust prompt page interface from IBM Cognos framework into Angular 9 framework
+• Enable Analysts and Developers from ABCBS’s +120 customer companies to search insurance plans of their employees and to generate reports for analysis (e.g. cost analysis, insurance price analysis, etc.)
+• Serve as an active role in structuring single page applications to make easy to maintain
+• Work independently and report the progress to Team Leader, including design recommendations on feedback
+• Become familiar with promotion requests from development environment until production environment.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+• Developed websites using JavaScript, Gatsby, GraphQL, React, PHP, WordPress, Shopify, and WooCommerce
+~~~~~~~~~~~~~~~~~~~
+• Responsible for the development of new software products, from wireframe to successful deployment
+• Utilize React.js, Vue.js, Node.js, Netlify, FaunaDB, FQL, and PHP to implement scalable full-stack software solutions
+• Interview candidates and evaluate technical assessments
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+• Developed websites, web services, and applications using JavaScript, Node.js, React, Gatsby, GraphQL, PHP, SQL, and Liquid
+• Maintain and update existing sites and applications to fix bugs, improve UI, SEO, and performance
+• Modernize tooling
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+• Responsible for front end (React) and back end (PHP) development for a mobile/desktop application that is used by UCI campus bus drivers and administrative staff for scheduling
+• Created design concepts and adjusted design elements to address user interface (UI) and user experience (UX)
+• Reviewed the existing database, built database schema, and wrote SQL queries to retrieve and manipulate data
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Designed and implemented a maintenance calendar allowing mechanics and administrators to track and schedule aircraft maintenance items
+- Took initiative in creating a cleaner code base by establishing a more suitable separation between back-end and front-end functionality
+- Focused on establishing a simple and responsive application therefore producing an improved user-experience
+- Integrated React into the existing codebase allowing for easier development of complex features and better code organization
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Node.js and frontend Javascript. Design of an admin interface for a content management system, backed by a REST-like API. Improved the broader Node.js Lambda based API.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Built reusable, maintainable device fixing portal configurable to other business models
+- Added report feature to show customers car fixing process.
+- Taking leadership role on a project
+- Fixing bugs on main website
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+• Involved in Agile process, bi-weekly Sprints, and daily Scrums to discuss the development.
+• As part of team involved in all the phases like Requirements Analysis, Design, Development and Testing.
+• Hands on experience in Angular2/5, PrimeNG, Material, D3.js and Dragula.
+• Developing a Natural Language Generation System that can generate the Narrative Text's of AML cases.
+• Hands on experience in Spring MVC, JDBC Template.
+• Used Oracle DB as a relational database management system along with SQL Developer.
+• Built a custom modern theme as per CITI standards which is compatible with PrimeNG.
+• Used IBM Jazz RTC version control system.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+• Designed development tasks and detailed programming using AngularJS, BootStrap, HTML5, CSS3 for the front end.
+• Designed an REST API using Spring Boot and used Angular services to make calls to it.
+• Source code version management is maintained using Git.
+• Tested cross browser functionality and fixed major layout bugs for supported browsers.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~ it describes about the experiences that worked in upwork ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+• Coordinated with remote clients and developers for design and development of various projects.
+• Built Chrome Extension from the scratch and also worked on the enhancement of existing extensions.
+• Implemented Regular Expression Based Parser for identifying email and phone of an individual anywhere on their profile page.
+• Integrated Email Hunter API for searching as well as predicting the email of an individual based on the company email structure.
+• Created Rest API using Google App Script to push data into Google Spreadsheets.
+• Enhanced Mailvelope to automate key generation, submission, and users public key search process.
+• Implemented cross-origin based key submission for Ubuntu - OpenPGP Key Server.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ it describes about the experiences that worked in freelancer~~~~~~~~~~~~~~~~~~~~
+• Worked as Full Stack Web Developer for various projects.
+• Worked on speed optimization by minifying javascript, CSS and merging files to reduce request count.
+• Implemented javascript load on request.
+• Implemented caching files which don't change often, To reduce the load on the server.
+• Worked on updating code which results in request time out’s and 404 errors.
+• Followed best practices for speed optimizations like making javascript request at the end after all other requests.
+• Worked on WordPress Search Engine Optimization, keywords research, sitemap generation and meta tags.
+• Worked on Wordpress theme and backend code Enhancements to suit client needs.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~it describes about the experiences that worked in fiver~~~~~~~~~~~~~~~~~~~~~
+ 
+• Developed a Web App Prototype for FivePerFive Application.
+• Designed a flat UI design for the prototype.
+• Implemented Google Cloud Speech API to meet application requirements for validating purpose.
+• Developed and Implemented a Vanity URL mechanism for enhanced security and user-friendly URL.
+• Worked on browser history stack to programmatically push and retrieve URLs for the Implementation of Vanity URLs.
+• Implemented AJAX page loads to enhance user experience.
+• Built Fully Functional Lightweight Vanity URL System from Scratch using JavaScript..
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Developed dynamic web pages, rich interactive Dashboards using Drupal,
+HTML5, CSS3, JavaScript.
+• Developed customized portfolio using Digital measures API to show
+Professor’s profile on university portal.
+• Maintained SQL scripts, indexes and optimized complex queries, therefore
+reducing time to generate reports.
+• Provide training to faculty and students to increase understanding of Student
+Portal, e-Portfolio.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+• Implemented features in agile development environment using Struts,
+Hibernate and Spring frameworks.
+• Designed and developed web services for client through company’s
+Integration Platform.
+• Implemented UI design, conducted extensive site monitoring and fixing
+website functionalities.
+• Implemented XML and JSON parsing for data handling on different internal
+web service.
+Applications for OS
+• Designed connection manager which is the remote access connection used
+for organizing protocols such as RDP, Citrix ICA,
+PNAgent.
+• Developed user interface using Qt4 which resulting in better customer
+service, and enhancement of business processes.
+• Developed customized applications for OS to enhance greater system
+efficiency
+• Created a module within GIO operating system to allow translation into
+various languages for clients worldwide.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+• Designing a modern web development(using HTML5, CSS, JavaScript, Angular and React)
+• Develop in SPAweb Development using React, Redux + Type Script
+• Cooperating with a Designer team in the process of building the rich and innovative user experience
+• Worked with modules like MongoDB and mongoose for database persistence using Node.js to interact with MongoDB.
+• Working in continuous delivery and test-driven development including writing unit tests, perform code reviews etc.
+• Involved Webpack as module bundler to preprocess and minify different files such as TypeScript and SASS files.
+Achievements:
+• Successfully develop and deployed code/features, multiple times, while working in an Agile environment
+• Identified and resolved technical issues to maximize performance by gathering complete requirements.
+Technologies Used: JavaScript, React Native, React, CSS, HTML, Typescript, Webpack, MongoDB, JWT Authentication, Postman, Express.js, Mongoose, EJS, MongoClient, MVC, Google Cloud, Swagger
+
+
+~~~~~~~~~~~~~~~~~~~~
+Tasks Performed:
+• Developing large-scale, custom distributed web applications Using JavaScript, Angular, React and NodeJS
+• Worked with Express.js for development of RESTful web services and middleware configurations.
+• Extensively worked on DOM manipulation using Angular, Vanilla JavaScript, HTML, CSS
+• Worked with JSON web tokens for authentication and authorization security configurations using Node.js.
+• Involved Webpack as module bundler to preprocess and minify different files such as TypeScript and SASS files.
+• Full scope test automation from unit to behavioral/functional to integration (JUnit, Mocha, and Chai)
+Technologies Used: JavaScript, React Native, React, CSS, HTML, Typescript, MongoDB, JWT Authentication, Postman, Express.js, Mongoose, EJS, MongoClient, MVC, Google Cloud, Swagger, Webpack
+
+
+~~~~~~~~~~~~~~~~~~~~~~
+• Carried out thermodynamic and mineral processing calculations on a standard computer quickly and easily.
+• Working with the development of essential software toolkit for process research, development, design, and digitalization, as well as for estimating process efficiencies, yields, and environmental footprints.
+• Developed new processes and improve existing ones through modeling and simulation
+• Applied complex process theory and calculations in an easy-to-use format.
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Developed full-stack web applications which processed, analyzed, and rendered data visually.
+- Liaised with back end developers, front end developers, quality assurance testers, and CTO as needed.
+- Spearheaded transition from LAMP stack to MEAN stack, reducing latency by 50% and increasing database admin effectiveness by 25%.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Implemented a Single Page Web Applications (SPA) based front end for displaying user requests, user records history and security settings various users using JavaScript and Angular JS.
+- Created forms to collect and validate data from the user using AngularJS, jQuery and JavaScript.
+- Used D3.js to create company specific reporting tool.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Designed user interface for the product of gift card using Angular JS, jQuery, CSS3, HTML5 and JavaScript.
+- Implemented Google Search Appliance Configuration, integration, management and development, SAML deployment and SimpleSAMLphp.
+- Created Backend Server Framework – Node.js, Express.js, Sails.js, Geddy.js.
+
+~~~~~~~~~~~~~~~~~~~~~~~
+- Used Pagination component of jQuery for navigation and used DOM and AJAX to display page contents.
+- Optimized the web app for use on mobile devices including tablets and smart phones.
+- Managed, optimized, and updated databases as necessary.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Involved in the scope discussions with the Business Analysts and the Business users to identify the technical requirements.
+- Developed conceptual and detailed visual layouts for associated branches.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.
+Perform web site tests according to planned schedules, or after any web site or product revisions.
+Identify or maintain links to and from other web sites and check links to ensure proper functioning.
+Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with web sites.
+~~~~~~~~~~~~~~~~~~~~~
+Improved and maintained the eCommerce UX/UI across all digital formats.
+Optimized, HTML/CSS/Javascript/Liquid that transformed design assets into engaging and powerful brand experiences.
+Added new features, improvements, and developed new ideas for better user experience.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~
+Familiarized myself with the applications by performing exploratory testing
+Ran functional and regression testing of key applications' functionalities
+Submitted, and tracked bug reports in bug tracking system
+Performed localization testing
+Followed the scope of the testing outlined in the test plan
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Full stack development using Python on the backend and some PHP for legacy apps. GraphQL development using Graphene on the server-side and Apollo Client in the browser. Used React for front end development.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Refactored the entire front end into reusable modules. Implemented new features using view components. Improved the front end build tooling. Measured browser performance bottlenecks and implemented performance enhancements. Implemented A/B tests. Assisted in conducting interviews with junior developer candidates.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Large AngularJS codebase. Worked with a very small team. Implemented new functionality in a SaaS small business management app. Refactored legacy code, implemented numerous performance enhancements, collaborated with maintainers of our F/OSS dependencies to resolve bugs and improve UX.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Worked on a small team to rewrite a large portion of our front end codebase. We chose Angular as our framework of choice. Helped with Perl backend maintenance.
+
+
+~~~~~~~~~~~~~~~~~~~~~
+・Full-stack Growth Marketing Agency that handles growth from the top down
+・Troubleshot and implemented new theme sections in Shopify for company clients
+・Worked with designers to implement and update new pages
+・Implemented unit and integration testing for express server
+・Technologies: Shopify, Gatsby, React, CSS, Jest
+
+~~~~~~~~~~~~~~~~
+・Non-profit that builds technology for other non-profits while providing mentorship to junior developers
+・Implemented models, REST routes, and testing for core functionality
+・Wrote and tested responsive frontend components
+・Technologies: Node, Express, Sequelize, Postgres, Jest, React
+
+~~~~~~~~~~~~~~~~~
+・Web application that provides access to stream unlimited workout videos from leading boutique studios
+・Improved app performance by building and refactoring reusable components
+・Increased accessibility by implementing responsive design to match mock-ups
+・Technologies: React, Redux
+
+~~~~~~~~~
+Responsibilities: outsource projects development
+
+Personal achievements:
+• Built cross-platform solutions including website and mobile applications
+• Worked on blockchain solution for Stockmarket and Cigar with RFID
+
+Tech. stack:
+• Ethereum, Bitcoin, BSC, FMT, Polygon
+• Smart Contract / Solidity, Rust
+• Javascript / NodeJS / React / Next.js / React Native
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Responsibilities: development of end to end solution for data collection and representation from IoT devices (cars, ships, trains, trucks).
+
+Personal achievements:
+• led development of new Frontend solution
+• integrated custom Factories map layers
+• contributed to develop new Backend features, including collecting and storing data from IoT devices
+
+Tech. stack:
+• Python / Django
+• JavaScript / Backbone / Leaflet / Dojo
+• MongoDB / PostgreSQL
+
+
+~~~~~~~~~~~~~~~~~~~~~
+• Building websites and apps that are responsive and usable.
+• Identifying innovative ideas and proof of concepts according to project requirements.
+• Bringing mock-ups to life using HTML, CSS, JavaScript.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Intensive software development bootcamp focusing on full-stack development fundamentals and problem solving.
+• Structured wireframes from conception to implementation with HTML5 and CSS3.
+• Worked both individually and collaboratively with other developers on GitHub.
+• Collaborated with a team of software engineers to build a forums style app using JavaScript, HTML5, CSS3, Bootstrap, Handlebars, Node.js, Express.js, Sequelize, Passport, and MySQL.
+• Built a Google Books Search website using MongoDB, Express.js, React, Node.js, and JavaScript.
+• Developed a real-time calendar website using JavaScript, HTML5, CSS3, jQuery and moment.js library.
+• Worked with a cross-functional team of designers in an agile workflow to design and programmed a full-stack DataTrak app built with HTML5, CSS3, JavaScript, MongoDB, Express.js, React, Node.js. The app was deployed using Heroku cloud platform.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+• Recommended and developed strategies for growing and leveraging the company’s media followers base using promotions, contests, polls, ads, surveys, and referral programs
+• Substantially improved web traffic, developed brand awareness, and established member engagement by 70% using various content marketing
+• Increased efficiency and accessibility by modernizing and managing the company’s social media presence
+• Took responsibility for setting up content and graphics for websites and blogs of new customers
+
+
+~``````````~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+• Built a highly scalable and secure back-end trading infrastructure.
+• Created auto-scaling, auditable, and well-monitored AWS clusters. Supported a successful IPO on the Frankfurt Stock Exchange.
+• Utilized best security practices and created a highly-available Blockchain infrastructure in support of a successful ICO.
+• Worked with senior management and technical teams to minimise infrastructure costs while maintaining high availability.
+• Built and integrated various monitoring tools to ensure high availability and integrity.
+• Resolved issues detected by monitoring systems on a 24-hour basis as the primary contact.
+Technologies: DevOps, Red Hat Linux, Amazon Web Services (AWS), PagerDuty, New Relic, MetaTrader, PostgreSQL, Windows Server, Linux, Blockchain, Kubernetes, Terraform, AWS
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+• Researched blockchain technology, smart contracts, and cryptocurrency exchange systems.
+• Developed smart contracts on Ethereum and EOS.
+• Configured and deployed a cryptocurrencies exchange named Peatio, along with all its many dependencies.
+• Configured and deployed private Bitcoin, Ethereum, EOS, and XRP networks.
+• Used Slanger as a free self-hosted replacement for Pusher.
+• Containerized each service using Kubernetes.
+Technologies: Git, EOS, Ethereum, Bitcoin, Pusher, RabbitMQ, Redis, Ruby on Rails (RoR), Ruby
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Unity
+
+• 3d designers and modeler use Maya, Blender, , ZBrush and substance painter
+• Augmented reality developers use vuforia and Unity3D (object tracking, none mark Detection, ground Detection)
+• android app development
+• graphic designer (Corel Draw, Photoshop, photomontage, digital painting, logo design, logo motion, poster design, visit card design)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Unity
+
+- UE4 Full Modding Support (subclasses of 'Blueprint')
+- Custom Saving / Loading Systems in UE4 and Unity
+- Steamworks integration for Desktop in UE4 and Unity
+- Multiplayer / Lobby systems in UE4 (via BP Replication)
+- Advanced AI Systems in UE4 and Unity
+- Complete Desktop Level Editor in UE4
+- Complete Mobile Level Editor in Unity
+- and Much More!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ NFT game development
+
+✔ Trading bot with strong strategies (Front running, snipping, arbitrage, contract bot)
+✔ NFT marketplace with Smart UI and high end functionalities in Ethereum, Binance, Cardano, Solana, etc.
+✔ DEX and Centralized Crypto Exchange
+✔ Advanced Trading Platform (Stocks, CFD, Forex, Option, Features...)
+✔ Portfolio Tracking Platform
+✔ Multichain Web and Mobile Wallet
+✔ Crypto Betting and Casino
+✔ Yield Farming Protocols
+✔ Liquidity Mining Protocols
+✔ Automated Market Making (AMM) protocols
+✔ Flash Loans
+✔ Impermanent loss, governance tokens
+✔ P2P/Pool Lending and Borrowing
+✔ Crypto Collectible Platforms and Non-Fungible Tokens
+✔ Custom dApps
+✔ ERC20, ERC777, ERC223, ERC721, ERC1155 Smart Contract Development
+✔ Token Design - Stabilcoins, Utility, Security, Investment, Dividend coins
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Blockchain
+
+I've been developing software for 7+ years, and have a wide range of experience in the area. I'm available for blockchain as well as web development.
+
+High Quality, High Security, and Fast Delivery are my first rules during development.
+
+Specialize in:
+- Smart contract development, testing, and deployment
+- Developing De-Fi apps like pancakeswap and uniswap
+- Developing NFT marketplace
+- Tokenization of real assets, media, and social management
+- Creating web-based front ends to interact with smart contracts
+- React, Nextjs, Nodejs, Shopify, Laravel, Django, Golang, Rust, Solidity
+- Typescript, Scss, Aws, CI/CD, Mysql, Postgresql, MongoDB
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ smart contract for NFT
+
+I received the specification of NFT for specified feature with specified functions from client.
+Among the specification, I wrote the smart contract for the NFT.
+That had functions such as balanceOf, transferFrom, ownerOf, approve and so on.
+The Smart contract had five indexes, then name, symbol, total supply(number of total supply is single for NFT), assets, owner.
+I minted the contract to IPFS and received the address for NFT. And then I minted to OpenSea with the address.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I learned Computer Science in this university for 5 years.
+I was majoring in Computer Science and Information Technology during this period.
+I received Bachelor of Computer Science from this university when I graduated.

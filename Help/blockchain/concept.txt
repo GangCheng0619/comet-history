@@ -1,0 +1,19 @@
+# Storage vs Memory
+
+Contract storage is pre-allocated during contract construction and cannot be created in function call. ... Memory cannot be allocated during contract construction but rather created in function execution.
+
+Much like RAM, Memory in Solidity is a temporary place to store data whereas Storage holds data between function calls. The Solidity Smart Contract can use any amount of memory during the execution but once the execution stops, the Memory is completely wiped off for the next execution.
+
+Can specify 3 parts
+The first is “storage”, where all the contract state variables reside. Every contract has its own storage and it is persistent between function calls and quite expensive to use.
+The second is “memory”, this is used to hold temporary values. It is erased between (external) function calls and is cheaper to use.
+The third one is the "stack", which is used to hold small local variables. It is almost free to use, but can only hold a limited amount of values.
+
+If you e.g. pass such variables in function calls, their data is not copied if it can stay in memory or stay in storage.
+
+- The storage and memory keywords are used to reference data in storage and memory respectively.
+- Contract storage is pre-allocated during contract construction and cannot be created in function call. After all, it makes little sense to create new variable in storage in a function if it is to be persisted.
+- Memory cannot be allocated during contract construction but rather created in function execution. Contract state variable is always declared in storage. Again, it makes little sense to have state variable that cannot persist.
+- When assigning a memory referenced data to a storage referenced variable, we are copying data from memory to storage. No new storage is created.
+- When assigning a storage reference data to a memory referenced variable, we are copying data from storage to memory. New memory is allocated.
+- When a storage variable is created in function locally by look up, it simply reference data already allocated on Storage. No new storage is created.

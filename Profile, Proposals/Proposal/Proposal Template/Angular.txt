@@ -1,0 +1,29 @@
+Angular
+
+⭐⭐⭐⭐⭐ Hi there, and welcome to my profile.
+I am a professional front-end and back-end developer with 8+ years of experience developing with Rxjs, decorators such as components, directives, services and DI etc based on typescript from scratch.
+With expertise in multiple business domains (SaaS, B2B/B2C marketplaces, marketing, social networking, e-commerce platforms,etc...) I am really care to deliver functional and well performing applications, that meet defined business goals.
+When I developed some projects with Kendo UI for angular, I mix angular's advantages & html, css well to them, so I give enough satisfaction to my clients.
+I have experiences developing MVP application with SPA(MEAN), SSR(Angular Universal) from scratch.
+My English level is B2 and I can express my idea so that my clients understand my purpose easily.
+
+Top Skills are:
+- Angular 2, Angular 8, Angular 9/10/11
+- Express.js / Nest.js, NodeJS
+- Typescript / JavaScript / ES6 / 
+- PHP, MySQL, PgSQL, MongoDB, OOPs in PHP5-Core PHP
+- AJAX, HTTP, SMTP, SSH, AWS ec2 server using Ubuntu
+- Payment-gateway-integration: Paypal, Stripe, Paytm
+- SMS API
+- Integrate recurring payment, Bash-shell-scripting
+- JSON / Restful API / XML / SOAP / GraphQL
+- Social networks API: Facebook, Twitter, LinkedIn, Instagram, Google+, Tumblr, Foursquare
+- Kendo UI, Bootstrap, Figma Design, Flexbox
+- Responsive sites
+- Trello, JIRA, Basecamp etc Project management tool expert.
+- Bit-bucket & GITHUB
+- HTML5 / CSS3 / LESS / SASS / CSS
+
+I look forward to hearing from you!
+
+Kind regards.
